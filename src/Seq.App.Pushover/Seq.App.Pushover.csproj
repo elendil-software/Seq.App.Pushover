@@ -4,6 +4,8 @@
     <TargetFramework>net10.0</TargetFramework>
     <LangVersion>latest</LangVersion>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+
+    <CopyDebugSymbolFilesFromPackages>true</CopyDebugSymbolFilesFromPackages>
     
     <!-- Package metadata -->
     <PackageId>Seq.App.Pushover</PackageId>
